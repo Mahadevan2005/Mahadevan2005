@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadevan2005&label=Profile%20views&color=0e75b6&style=flat" alt="mahadevan2005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahadevan2005" alt="mahadevan2005" /></a> </p>
-
 - 🔭 I’m a 'Junior Developer Intern' at **CODE IIT Madras**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, React, Django**
