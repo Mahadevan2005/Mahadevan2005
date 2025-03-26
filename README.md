@@ -13,6 +13,9 @@ Turning Ideas into Code | Problem Solver | Web Dev | ML Enthusiast | Tech Tinker
 ![](https://nirzak-streak-stats.vercel.app/?user=mahadevan2005&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadevan2005&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mahadevan2005&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mahadevan2005&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
