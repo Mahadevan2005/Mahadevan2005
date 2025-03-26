@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, React, Django**
 
-- 👨‍💻 To get know me more [https://mahadevan-portfolio.vercel.app](https://mahadevan-portfolio.vercel.app)
+- 👨‍💻 To know more about me [https://mahadevan-portfolio.vercel.app](https://mahadevan-portfolio.vercel.app)
 
 - 💬 Ask me about **DSA, Software Development, Data Science**
 
