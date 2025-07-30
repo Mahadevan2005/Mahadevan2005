@@ -3,7 +3,7 @@ Turning Ideas into Code | Problem Solver | Web Dev | ML Enthusiast | Tech Tinker
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](m-mahadevan-8966b124a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahadevan122005@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/M_MAHADEVAN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([m-mahadevan-8966b124a](https://www.linkedin.com/in/mahadevan-m-8966b124a/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahadevan122005@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/M_MAHADEVAN/)
 
 
 # 💻 Tech Stack:
