@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mahadevan
-Turning Ideas into Code | Problem Solver | Web Dev | ML Enthusiast | Tech Tinkerer<br>🌱 I’m currently learning Data Structures and Algorithms, React, Django<br>💬 Ask me about **DSA, Software Development, Data Science**<br>👨‍💻 To know more about me [https://mahadevan-portfolio.vercel.app](https://mahadevan-portfolio.vercel.app)<br>📫 How to reach me **mahadevan122005@gmail.com**
+Turning Ideas into Code | Problem Solver | Web Dev | ML Enthusiast | Tech Tinkerer<br>🌱 I’m currently learning Data Structures and Algorithms, React, SpringBoot<br>💬 Ask me about **DSA, Software Development, Data Science**<br>👨‍💻 To know more about me [https://mahadevan-dev.vercel.app](https://mahadevan-dev.vercel.app)<br>📫 How to reach me **mahadevan122005@gmail.com**
 
 
 ## 🌐 Socials:
